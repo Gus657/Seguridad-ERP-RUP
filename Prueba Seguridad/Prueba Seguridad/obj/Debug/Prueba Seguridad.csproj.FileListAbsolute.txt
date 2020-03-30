@@ -1,0 +1,13 @@
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\bin\Debug\Prueba Seguridad.exe.config
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\bin\Debug\Prueba Seguridad.exe
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\bin\Debug\Prueba Seguridad.pdb
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\bin\Debug\seguridad-rup.dll
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\bin\Debug\seguridad-rup.pdb
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\obj\Debug\Prueba Seguridad.csprojAssemblyReference.cache
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\obj\Debug\Prueba_Seguridad.Form1.resources
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\obj\Debug\Prueba_Seguridad.Properties.Resources.resources
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\obj\Debug\Prueba Seguridad.csproj.GenerateResource.cache
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\obj\Debug\Prueba Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\obj\Debug\Prueba Seguridad.csproj.CopyComplete
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\obj\Debug\Prueba Seguridad.exe
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\Prueba Seguridad\Prueba Seguridad\obj\Debug\Prueba Seguridad.pdb
