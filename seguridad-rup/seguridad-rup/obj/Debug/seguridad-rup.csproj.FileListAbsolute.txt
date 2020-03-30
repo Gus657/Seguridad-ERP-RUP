@@ -1,0 +1,8 @@
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\seguridad-rup\seguridad-rup\bin\Debug\seguridad-rup.dll
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\seguridad-rup\seguridad-rup\bin\Debug\seguridad-rup.pdb
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\seguridad-rup\seguridad-rup\obj\Debug\seguridad-rup.csprojAssemblyReference.cache
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\seguridad-rup\seguridad-rup\obj\Debug\seguridad_rup.Vistas.Frm_Login.resources
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\seguridad-rup\seguridad-rup\obj\Debug\seguridad-rup.csproj.GenerateResource.cache
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\seguridad-rup\seguridad-rup\obj\Debug\seguridad-rup.csproj.CoreCompileInputs.cache
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\seguridad-rup\seguridad-rup\obj\Debug\seguridad-rup.dll
+C:\Users\gganp\Desktop\ERP-RUP\SEGURIDAD\Seguridad-ERP-RUP\seguridad-rup\seguridad-rup\obj\Debug\seguridad-rup.pdb
